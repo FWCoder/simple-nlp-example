@@ -1,5 +1,5 @@
 scikit-learn==0.24.1
 numpy==1.18.2
-panda==0.3.1
+pandas
 nltk==3.5
 boto3==1.9.199
